@@ -57,9 +57,7 @@
       alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
       height="40" /> </a> </p>
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwind/tailwind-original.svg" alt="tailwind" width="40"
-      height="40" /> </a> </p>
+      
 
 <br>
 
